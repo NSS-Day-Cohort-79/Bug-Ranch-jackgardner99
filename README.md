@@ -82,7 +82,7 @@ Your journey will take you through the wildness of the American Midwest and acro
    > The "drovers" element's value is an array while the "drover" value represents an object in the "drovers" array. The for...of loop will run for each object in specified array.
 
 3. In the **journey** module, there is a `journeyMaker()` function. In that function, there is a variable named `areas` which will have the value of an object. Use your debugger to show what the value of each key is on that object. Use [Loom](https://www.loom.com) to record your session.
-   > Your public Loom URL here
+   > https://www.loom.com/share/9f962e0bfe93467095d1f9f120a387c5
 
 4. Also in the **journey** module, there is the following code:
    ```js
